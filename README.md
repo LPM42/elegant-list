@@ -6,6 +6,6 @@ To use:
 
 2. Navigate to elegant-list directory.
 
-3. Run "Meteor".
+3. Run "meteor".
 
 4. See running on http://localhost:3000/.
