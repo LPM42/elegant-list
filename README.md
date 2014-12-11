@@ -1,6 +1,7 @@
 Elegant List: The Elegant ToDo List in Meteor
 =======================
 To use:
+
 1. Install Meteor https://www.meteor.com/.
 
 2. Navigate to elegant-list directory.
